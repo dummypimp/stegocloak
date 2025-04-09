@@ -2,7 +2,7 @@
   "name": "stegcloak-frontend",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://illuminating-dumpster.github.io/stegocloak",
+  "homepage": "https://dummypimp.github.io/stegocloak",
   "scripts": {
     "predeploy": "npm run build",
     "dev": "next dev --turbopack",
