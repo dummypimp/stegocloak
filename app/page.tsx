@@ -9,8 +9,8 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'StegCloak - Hide Secret Messages in Plain Text',
     description: 'A modern dark mode frontend for StegCloak, a pure JavaScript steganography library that hides secrets inside text.',
-    url: 'https://stegcloak.vercel.app',
-    siteName: 'StegCloak Frontend',
+    url: 'https://stego.xorcrack.com',
+    siteName: 'StegCloak',
     locale: 'en_US',
     type: 'website',
   },
