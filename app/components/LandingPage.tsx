@@ -134,7 +134,7 @@ const LandingPage = () => {
           
           <div className="flex flex-wrap gap-4 text-sm">
             <a 
-              href="https://github.com/KuroLabs/stegcloak" 
+              href="https://github.com/dummypimp/stegocloak" 
               target="_blank" 
               rel="noopener noreferrer"
               className="text-gray-400 hover:text-purple-400 transition-colors"
@@ -150,7 +150,7 @@ const LandingPage = () => {
               About Steganography
             </a>
             <a 
-              href="https://github.com/KuroLabs/stegcloak/issues" 
+              href="https://github.com/dummypimp/stegocloak/issues" 
               target="_blank" 
               rel="noopener noreferrer"
               className="text-gray-400 hover:text-purple-400 transition-colors"
