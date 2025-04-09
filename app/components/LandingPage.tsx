@@ -76,7 +76,7 @@ const LandingPage = () => {
             
             {/* GitHub Link */}
             <a 
-              href="https://github.com/KuroLabs/stegcloak" 
+              href="https://github.com/dummypimp/stegcloak" 
               target="_blank" 
               rel="noopener noreferrer"
               className="mt-4 md:mt-0 inline-flex items-center px-4 py-2 border border-gray-600 text-sm font-medium rounded-md text-gray-200 bg-gray-700 hover:bg-gray-600 transition-colors"
