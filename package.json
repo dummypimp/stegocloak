@@ -1,12 +1,15 @@
 {
-  "homepage": "https://dummypimp.github.io/stegcloak-frontend/","name": "stegcloak-frontend",
+  "name": "stegcloak-frontend",
   "version": "0.1.0",
   "private": true,
-  "scripts": {"predeploy": "npm run build","deploy": "gh-pages -d out",
+  "homepage": "https://illuminating-dumpster.github.io/stegocloak",
+  "scripts": {
+    "predeploy": "npm run build",
     "dev": "next dev --turbopack",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "deploy": "next build && npx gh-pages -d out"
   },
   "dependencies": {
     "next": "15.1.7",

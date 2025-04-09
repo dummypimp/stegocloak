@@ -4,5 +4,6 @@ module.exports = {
     unoptimized: true,
   },
   trailingSlash: true,
+  basePath: '/stegocloak',
 };
 
