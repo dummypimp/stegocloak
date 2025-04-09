@@ -1,4 +1,4 @@
-# StegCloak Dark Mode Frontend
+# StegCloak Refined 
 
 A modern dark-themed frontend for the [StegCloak](https://github.com/dummypimp/stegcloak) steganography library. This application allows you to hide secret messages within ordinary text using invisible zero-width characters, with support for encryption and integrity checking.
 
