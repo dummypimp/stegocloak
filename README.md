@@ -1,8 +1,7 @@
 # StegCloak Dark Mode Frontend
 
-A modern dark-themed frontend for the [StegCloak](https://github.com/KuroLabs/stegcloak) steganography library. This application allows you to hide secret messages within ordinary text using invisible zero-width characters, with support for encryption and integrity checking.
+A modern dark-themed frontend for the [StegCloak](https://github.com/dummypimp/stegcloak) steganography library. This application allows you to hide secret messages within ordinary text using invisible zero-width characters, with support for encryption and integrity checking.
 
-![StegCloak Dark Mode Frontend](https://i.imgur.com/placeholder.png)
 
 ## Features
 
@@ -114,15 +113,6 @@ The process involves:
 - [StegCloak](https://github.com/KuroLabs/stegcloak) - Core steganography library
 - [React](https://reactjs.org/) - UI library
 - [TypeScript](https://www.typescriptlang.org/) - Type-safe JavaScript
-
-## Credits and Acknowledgments
-
-This project is a frontend for the [StegCloak library](https://github.com/KuroLabs/stegcloak) developed by KuroLabs:
-- [Jyothishmathi CV](https://github.com/JyothishmathiCV)
-- [Kandavel A](https://github.com/AK5123)
-- [Mohanasundar M](https://github.com/mohanpierce99)
-
-Visit the [original StegCloak repository](https://github.com/KuroLabs/stegcloak) for more information about the core technology.
 
 ## License
 
