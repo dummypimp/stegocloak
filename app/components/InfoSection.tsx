@@ -55,6 +55,10 @@ const InfoSection: React.FC = () => {
             StegCloak is a pure JavaScript steganography tool that helps you hide secret messages within ordinary text.
             It uses cutting-edge techniques to make your messages invisible and secure.
           </p>
+          <p className="text-gray-300 mt-2">
+            This web application is hosted on Cloudflare Pages at <a href="https://8c763a9a.stegocloak.pages.dev/" target="_blank" rel="noopener noreferrer" className="text-purple-400 hover:underline">stegocloak.pages.dev</a>, 
+            providing a fast and reliable platform for your steganography needs.
+          </p>
         </div>
 
         <div className="space-y-4">
