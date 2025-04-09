@@ -113,16 +113,6 @@ const NavLayout: React.FC = () => {
       <footer className="bg-gray-800 py-4 px-6 text-center text-gray-400 text-sm">
         <div className="max-w-7xl mx-auto">
           <p>© {new Date().getFullYear()} StegCloak Frontend. Secure message hiding using invisible characters.</p>
-          <div className="mt-2">
-            <a 
-              href="https://github.com/KuroLabs/stegcloak" 
-              target="_blank" 
-              rel="noopener noreferrer"
-              className="text-purple-400 hover:text-purple-300 underline"
-            >
-              GitHub Repository
-            </a>
-          </div>
         </div>
       </footer>
     </div>

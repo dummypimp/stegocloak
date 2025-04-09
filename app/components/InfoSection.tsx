@@ -253,20 +253,6 @@ const InfoSection: React.FC = () => {
             </div>
           </AccordionItem>
         </div>
-        
-        <div className="mt-8 pt-6 border-t border-gray-700">
-          <p className="text-sm text-gray-400">
-            StegCloak is an open-source project. Learn more by visiting the{' '}
-            <a 
-              href="https://github.com/KuroLabs/stegcloak" 
-              target="_blank" 
-              rel="noopener noreferrer"
-              className="text-purple-400 hover:text-purple-300"
-            >
-              official GitHub repository
-            </a>.
-          </p>
-        </div>
       </div>
     </div>
   );
