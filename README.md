@@ -1,8 +1,7 @@
-# StegCloak Dark Mode Frontend
+# StegCloak Refined 
 
 A modern dark-themed frontend for the StegCloak steganography library. This application allows you to hide secret messages within ordinary text using invisible zero-width characters, with support for encryption and integrity checking.
 
-![StegCloak Dark Mode Frontend](https://i.imgur.com/placeholder.png)
 
 ## Features
 
@@ -59,11 +58,11 @@ npm start
 
 ## Deployment
 
-The easiest way to deploy this frontend is using [Vercel](https://vercel.com/):
+The easiest way to deploy this frontend is using [Cloudflare Pages](https://pages.cloudflare.com/):
 
 ```bash
-npm install -g vercel
-vercel
+npm install -g wrangler
+wrangler pages deploy out
 ```
 
 Alternatively, you can deploy to any static hosting service by running:
@@ -118,10 +117,9 @@ The process involves:
 ## Credits and Acknowledgments
 
 This project is a frontend for the StegCloak library developed by KuroLabs:
-- [Jyothishmathi CV](https://github.com/JyothishmathiCV)
-- [Kandavel A](https://github.com/AK5123)
-- [Mohanasundar M](https://github.com/mohanpierce99)
-
+- Jyothishmathi CV
+- Kandavel A
+- Mohanasundar M
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
